@@ -24,9 +24,6 @@ Jekyll also offers **powerful** _support_ for code snippets:
 2. item
 3. item
 
-
-![](/_posts/cute.jpeg)
-
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
